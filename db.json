@@ -274,6 +274,16 @@
       "description": "Inventore et nesciunt est cupiditate totam qui. Deleniti a numquam a quasi veritatis nemo numquam in. Eaque aperiam blanditiis voluptate ipsum sint dolore aspernatur.",
       "breed": "Sokoke",
       "createdAt": 1670165980569
+    },
+    {
+      "name": "Cute new cat",
+      "cost": 40.64,
+      "likes": 90,
+      "image": "https://loremflickr.com/640/480/cats",
+      "description": "Laudantium earum dignissimos saepe aliquid modi. Nemo perspiciatis consectetur totam aliquam officiis dolorum numquam. Doloremque nisi nam reprehenderit voluptas maxime. Hic rem vel rem id ipsum.",
+      "breed": "Siamese",
+      "createdAt": 1677347305754,
+      "id": "yyV4aRbMMO"
     }
   ],
   "users": [
@@ -65870,7 +65880,55 @@
       "name": "Engineering"
     }
   ],
-  "products": [],
+  "products": [
+    {
+      "title": "Canon EOS R5 Mirrorless Digital Camera Body",
+      "price": 200,
+      "saving": 3699,
+      "image": "https://www.adorama.com/images/product/car5.jpg",
+      "createdAt": 1677347950743,
+      "id": "u6f16RZtZI"
+    },
+    {
+      "title": "Flashpoint Zoom Li-on R2 TTL Speedlight Flash for Nikon Cameras",
+      "price": 60,
+      "saving": 169,
+      "image": "https://www.adorama.com/images/product/zoomlioniii_1.jpg",
+      "createdAt": 1677348704030,
+      "id": "02qTHtT2HB"
+    },
+    {
+      "title": "Sonos Entertainment Set with Beam",
+      "price": 60,
+      "saving": 1138,
+      "image": "https://www.adorama.com/images/product/sobeam2bb.jpg",
+      "createdAt": 1677348869088,
+      "id": "6Op4zRDR82"
+    },
+    {
+      "title": "FlashBack Junior Retro Camera Flash(Red)",
+      "price": 20,
+      "saving": 59,
+      "image": "https://www.adorama.com/images/product/fplfsmfbjr.jpg",
+      "createdAt": 1677349012507,
+      "id": "nm5fCunyaw"
+    },
+    {
+      "title": "Apple MacBook Air 13.3,M1 Chip,8GB,256GB SSD,Space Gray,Late",
+      "price": 100,
+      "saving": 899,
+      "image": "https://www.adorama.com/images/product/acmgn63lla.jpg",
+      "createdAt": 1677349172867,
+      "id": "tmoZ8X9zJo"
+    },
+    {
+      "title": "HP DesignJet T230 Large Format Printer,24 Color Inkjet Plotter,Wireless",
+      "price": 150,
+      "saving": 799,
+      "image": "https://www.adorama.com/images/product/ihpt230.jpg",
+      "id": "Nbt05G0P5h"
+    }
+  ],
   "product_status": [],
   "brands": [],
   "shippings": [],
